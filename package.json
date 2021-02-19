@@ -1,6 +1,6 @@
 {
   "name": "multirepo-sub-b",
-  "version": "0.2.2",
+  "version": "0.2.3-alpha",
   "repository": "https://github.com/kenkaijie/multirepo-sub-b.git",
   "author": "Kenneth Ng <ngkaijie@hotmail.com>",
   "license": "MIT"
