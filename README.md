@@ -1,2 +1,3 @@
-# multirepo-sub-b
-Sub Library repo b
+# Lib B (For multirepo testing)
+
+The infinitely useful Lib B. 
